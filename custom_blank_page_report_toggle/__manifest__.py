@@ -1,6 +1,6 @@
 {
     "name": "Base Report with Odd Page Blank Padding",
-    "version": "18.0.0.1",
+    "version": "18.0.0.3",
     "depends": ["base"],
     "author": "Mayank Prajapati",
     "category": "Tools",
